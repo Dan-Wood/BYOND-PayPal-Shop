@@ -1,0 +1,3 @@
+[submodule "PHP-PayPal-IPN"]
+	path = PHP-PayPal-IPN
+	url = https://github.com/Quixotix/PHP-PayPal-IPN
